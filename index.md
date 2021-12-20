@@ -8,7 +8,7 @@
 *뒷광고 보내지 마세요! (차단)*
 ## 뉴비와 마크를 하고싶다면?
 디코로 ```뉴비와 마크하고 시퍼여!``` 라고 보내주세요^^  
-마크닉:NOOBNUBY
+마크닉:**NOOBNUBY**
 
 ```markdown
 Syntax highlighted code block
