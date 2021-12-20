@@ -5,7 +5,7 @@
 취미: 마크나 잡다한것들 하기!(마크를 가장 많이함!)  
 **게임못해도 뭐라하지 말아주세요^^**
 ## 뉴비의 디코 아이디
-![image](https://user-images.githubusercontent.com/93894025/146706772-8354cbcd-c1cd-4ed9-8aca-d89f9710a3ca.png)  
+![image](https://user-images.githubusercontent.com/93894025/146707304-0259337a-624b-4c09-b0e7-5160643b13ea.png)  
 **NOOBNUBY#8715**  
 *뒷광고 보내지 마세요! (차단)*
 ## 뉴비와 마크를 하고싶다면?
