@@ -1,0 +1,73 @@
+# 테마
+remote_theme: daviddarnes/alembic@main
+
+# 사이트에서 제외할 파일
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- CNAME
+
+# 플러그인
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+- jekyll-remote-theme
+
+# 사이트 설정
+encoding: utf-8
+lang: ko-KR
+title: '미르냥'
+logo: "https://i.imgur.com/ZY03FOK.png"
+description: '미르냥 사이트'
+url: 'https://mydomain.com'
+baseurl: ''
+permalink: pretty
+
+# Pagination
+paginate: 5
+paginate_path: blog/page:num
+
+# 머릿말
+navigation_header:
+- title: 미르냥
+  url: /
+- title: Discord 변경 사항
+  url: https://mirnyang.mcv.kr
+
+# 끝맺음말
+navigation_footer:
+- title: 상위로 올라가기
+  url: "#top"
+
+# Collections
+collections:
+  posts:
+    title: Posts
+    output: true
+    description: "My thoughts and ideas"
+    feature_text: |
+      Welcome to my blog
+    feature_image: "https://picsum.photos/2560/600?image=866"
+
+# Collection settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post # Set the default layout for posts
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page # Set the default layout for pages
