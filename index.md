@@ -2,7 +2,8 @@
 
 ## 뉴비는 누구일까?
 모든 게임을 잘못하는게 뉴비!  
-취미: 마크나 잡다한것들 하기!(마크를 가장 많이함!)
+취미: 마크나 잡다한것들 하기!(마크를 가장 많이함!)  
+**게임못해도 뭐라하지 말아주세요^^**
 ## 뉴비의 디코 아이디
 [discord-avatar-512-S0KBH](https://user-images.githubusercontent.com/93894025/146706772-8354cbcd-c1cd-4ed9-8aca-d89f9710a3ca.png)  
 **NOOBNUBY#8715**  
