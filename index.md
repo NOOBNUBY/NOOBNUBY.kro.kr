@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 뉴비의 소개 사이트에 오신것을 환영합니다!
 
 You can use the [editor on GitHub](https://github.com/NOOBNUBY/NOOBNUBY.kro.kr/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
