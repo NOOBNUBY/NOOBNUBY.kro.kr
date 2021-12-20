@@ -1,12 +1,14 @@
-## 뉴비의 소개 사이트에 오신것을 환영합니다!
+## 뉴비의 사이트에 오신것을 환영합니다!
 
-You can use the [editor on GitHub](https://github.com/NOOBNUBY/NOOBNUBY.kro.kr/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 뉴비는 누구일까?
+모든 게임을 잘못하는게 뉴비!
+취미: 마크나 잡다한것들 하기!(마크를 가장 많이함!)
+## 뉴비의 디코 아이디
+NOOBNUBY#8715
+*뒷광고 보내지 마세요! (차단)*
+## 뉴비와 마크를 하고싶다면?
+디코로 ```뉴비와 마크하고 시퍼여!``` 라고 보내주세요^^
+마크닉:NOOBNUBY
 
 ```markdown
 Syntax highlighted code block
@@ -27,23 +29,3 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NOOBNUBY/NOOBNUBY.kro.kr/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
----
-title: 미르냥을 보러 와주셨군요!
-feature_image: "https://i.imgur.com/398CPlm.jpg"
----
-Want view in [English?](https://www.youtube.com/?hl=ko&gl=KR "english version")
-
-#### 미르냥은 누구죠?
-
-<details>
-    <summary>미르냥 정보</summary>
-    <p>나이: 1234<br>좋아하는 것: 1234<br>싫어하는 것: 1234</p>
-</details>
